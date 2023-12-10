@@ -47,4 +47,4 @@ Markov chains are powerful tools in various fields, including statistics, econom
 
 # Implementation
 
-The sample code of the Markov Chain is given in the [python.py]("https://github.com/pranavgupta2603/MarkovChainTextGenerationQuestion/blob/main/MarkovChain_TextGeneration_Template.py") file in the repository.
+The sample code of the Markov Chain is given in the [python.py]("./MarkovChain_TextGeneration_Template.py") file in the repository.
