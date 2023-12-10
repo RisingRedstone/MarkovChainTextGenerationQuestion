@@ -44,3 +44,7 @@ These probabilities can then be arranged in a transition matrix, which summarize
 This matrix tells us, for example, that if we are currently in state A, there is a 40% chance that the next state will be B and a 60% chance it will be C. Similarly, the other probabilities can be interpreted from the matrix.
 
 Markov chains are powerful tools in various fields, including statistics, economics, and computer science, due to their ability to model complex random processes in a relatively simple and understandable way.
+
+# Implementation
+
+The sample code of the Markov Chain is given in the python.py file in the repository.
