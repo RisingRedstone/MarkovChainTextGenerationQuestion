@@ -60,7 +60,9 @@ Markov chains are powerful tools in various fields, including statistics, econom
 If you have any doubts/errors regarding the implementation or submission of this problem, [Create an Issue](https://github.com/pranavgupta2603/MarkovChainTextGenerationQuestion/issues/new/choose) and use the Doubt template
 
 ## Submission
+
 Submission Link: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfbjqz7n75qKfMTxnBX6xOEogLGyr2M_qnA-yI2TaR0L7g-Tw/viewform)
+
 You need to submit:
 - The python code, e.g, MarkovChain_TextGeneration_Template.py
 - A screenshot of the output of your code
