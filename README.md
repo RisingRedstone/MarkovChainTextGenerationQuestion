@@ -53,10 +53,15 @@ Markov chains are powerful tools in various fields, including statistics, econom
 ## Expected Output
 
 - A transition matrix showing the probability of transitioning from one state to another.
-- A dictionary showing the frequency of each state.
 - A generated sequence of states starting from a randomly chosen initial state based on its frequency.
 
 ## Queries
 
-If you have any doubts/errors regarding the implementation or submission of this problem, create an issue 
+If you have any doubts/errors regarding the implementation or submission of this problem, [Create an Issue](https://github.com/pranavgupta2603/MarkovChainTextGenerationQuestion/issues/new/choose) and use the Doubt template
 
+## Submission
+Submission Link: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfbjqz7n75qKfMTxnBX6xOEogLGyr2M_qnA-yI2TaR0L7g-Tw/viewform)
+You need to submit:
+- The python code, e.g, MarkovChain_TextGeneration_Template.py
+- A screenshot of the output of your code
+- A screenshot of the transition matrix
