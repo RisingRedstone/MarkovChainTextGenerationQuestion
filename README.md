@@ -1,3 +1,10 @@
+# Markov Chain Text Generation
+
+To get started with this project, clone the repository using:
+
+```
+git clone https://github.com/pranavgupta2603/MarkovChainTextGenerationQuestion.git
+```
 # What is a Markov Chain?
 
 A Markov Chain is a mathematical system that undergoes transitions from one state to another, within a finite or countable number of possible states. It is a random process that has the key property of Markov property, meaning that the future state depends only on the current state and not on the sequence of events that preceded it.
